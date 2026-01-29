@@ -4,6 +4,8 @@ uhhhh something something source code something something its all just html and 
 
 site is hosted on github pages hopefully with both ipv4 and ipv6 support, for maxmium performance of loading these 50kb of html 
 
+![works on latest IE with windows 10, or any browser with SSL 1.2 (sorry netscape navigators :/)](https://raw.githubusercontent.com/BinxHere/binxhere.net/refs/heads/main/assets/IEbh.net.png)
+
 Sources for 88x31s <3333
 https://88x31.kate.pet/
 https://cyber.dabamos.de/88x31/
